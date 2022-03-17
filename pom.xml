@@ -1,0 +1,13 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0">
+    <packaging>pom</packaging>
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>org.springframework.boot</groupId>
+    <artifactId>grpc-demo-parent</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+    <name>grpc-demo-parent</name>
+    <modules>
+        <module>common</module>
+        <module>service</module>
+    </modules>
+
+</project>
